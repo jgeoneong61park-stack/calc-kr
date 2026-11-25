@@ -1,0 +1,1 @@
+const W=n=>Math.round(n).toLocaleString('ko-KR')+'원';const $=id=>document.getElementById(id);const show=h=>{const r=$('res');r.innerHTML=h;r.style.display='block'};

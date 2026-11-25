@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jgeoneong61park-stack.github.io/calc-kr/sitemap.xml
